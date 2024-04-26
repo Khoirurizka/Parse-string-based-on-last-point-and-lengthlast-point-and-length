@@ -1,0 +1,15 @@
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\bin\Debug\net7.0\Parse_long text_to_list.exe
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\bin\Debug\net7.0\Parse_long text_to_list.deps.json
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\bin\Debug\net7.0\Parse_long text_to_list.runtimeconfig.json
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\bin\Debug\net7.0\Parse_long text_to_list.dll
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\bin\Debug\net7.0\Parse_long text_to_list.pdb
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.AssemblyInfoInputs.cache
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.AssemblyInfo.cs
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.csproj.CoreCompileInputs.cache
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.sourcelink.json
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.dll
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\refint\Parse_long text_to_list.dll
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.pdb
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\Parse_long text_to_list.genruntimeconfig.cache
+F:\Hucenrotia_Project\Parse-string-based-on-last-point-and-lengthlast-point-and-length\Parse_long text_to_list\obj\Debug\net7.0\ref\Parse_long text_to_list.dll
